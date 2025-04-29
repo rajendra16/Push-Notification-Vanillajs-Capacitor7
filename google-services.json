@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164767312122",
+    "project_id": "rajendra-1075c",
+    "storage_bucket": "rajendra-1075c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164767312122:android:6ba5448f938f16d56f4143",
+        "android_client_info": {
+          "package_name": "com.first.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzRYJIBBvJQKzbev8oPi_Q8bQCyuyi8j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
