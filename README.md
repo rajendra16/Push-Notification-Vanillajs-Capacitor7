@@ -5,6 +5,12 @@ and comes with a very minimal shell for building an app.
 
 ### Running this example
 
+To install Node Modules , You can use 
+
+```bash
+npm install 
+```
+
 To run the provided example, you can use `npm start` command.
 
 ```bash
