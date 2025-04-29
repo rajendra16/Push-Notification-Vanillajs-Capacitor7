@@ -1,0 +1,13 @@
+{
+  "appId": "com.first.app",
+  "appName": "wave",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    },
+    "FirebaseMessaging": {
+      "presentationOptions": ["alert", "badge", "sound"]
+    }
+  }
+}
